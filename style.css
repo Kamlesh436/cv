@@ -1,0 +1,38 @@
+body{
+    background-color: cyan;
+}
+h1{
+    color:red;
+    font-size: 150px;
+}
+
+img:hover{
+    background-color:greenyellow;
+}
+
+.vegi{
+    background-color:yellow;
+    border:2px solid green;
+    border-radius: 20px;
+    margin:10px;
+}
+.cucu{
+    background-color:red;
+    border:2px solid black;
+    border-radius:20px;
+    margin:10px;
+}
+
+#heading{
+    color:blue;
+}
+p{
+    color:darkred;
+    text-decoration-thickness: 20px;
+}
+
+.circular
+{
+    border-radius: 100%;
+}
+
